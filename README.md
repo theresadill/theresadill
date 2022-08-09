@@ -5,7 +5,7 @@
 - 👋 I’m Theresa!
 - 🎮 I’m interested in all aspects of art, photography, video games, & more
 - 🌱 I’m currently learning HTML & CSS
-- ✨ I'm looking forward to learning React
+- ✨ I'm excited to learn React
 
 <b>Socials</b>
 - <a href="https://twitter.com/theresacodes">Twitter</a>
